@@ -1,0 +1,2012 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woo Product Filter\n"
+"POT-Creation-Date: 2018-07-16 16:28+0300\n"
+"PO-Revision-Date: 2018-07-16 16:35+0300\n"
+"Last-Translator: \n"
+"Language-Team: supsystic.com <supsystic.team@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.9\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/controller.php:210 classes/controller.php:218
+#: modules/mail/controller.php:23 modules/options/controller.php:6
+#: modules/pages/views/tpl/deactivatePage.php:37
+#: modules/woofilters/controller.php:30 modules/woofilters/controller.php:41
+#: modules/woofilters/controller.php:51
+msgid "Done"
+msgstr ""
+
+#: classes/field.php:131
+msgid "Select"
+msgstr ""
+
+#: classes/field.php:170 classes/field.php:179 classes/field.php:184
+msgid "N/A"
+msgstr ""
+
+#: classes/field.php:277
+msgid "Add Checkbox"
+msgstr ""
+
+#: classes/field.php:282 classes/field.php:287
+msgid "Add Item"
+msgstr ""
+
+#: classes/field.php:293
+msgid "Add Radio Button"
+msgstr ""
+
+#: classes/field.php:311
+msgid "Dimensions"
+msgstr ""
+
+#: classes/field.php:314
+msgid "width"
+msgstr ""
+
+#: classes/field.php:316
+msgid "height"
+msgstr ""
+
+#: classes/field.php:323
+msgid "Click to set field \"id\" and \"class\""
+msgstr ""
+
+#: classes/field.php:324
+msgid "Attributes"
+msgstr ""
+
+#: classes/field.php:402
+msgid "There are no configuration options for this module"
+msgstr ""
+
+#: classes/fieldAdapter.php:93
+msgid "Apply To"
+msgstr ""
+
+#: classes/fieldAdapter.php:95
+msgid "Address"
+msgstr ""
+
+#: classes/fieldAdapter.php:96
+msgid "Destination"
+msgstr ""
+
+#: classes/fieldAdapter.php:97
+msgid "Country"
+msgstr ""
+
+#: classes/fieldAdapter.php:100
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:147
+msgid "Categories"
+msgstr ""
+
+#: classes/fieldAdapter.php:101
+msgid "You have no categories"
+msgstr ""
+
+#: classes/fieldAdapter.php:102
+msgid "Brands"
+msgstr ""
+
+#: classes/fieldAdapter.php:103
+msgid "You have no brands"
+msgstr ""
+
+#: classes/fieldAdapter.php:105
+msgid "Tax Rate"
+msgstr ""
+
+#: classes/fieldAdapter.php:106
+msgid "Absolute"
+msgstr ""
+
+#: classes/fieldAdapter.php:134
+msgid "Not selected"
+msgstr ""
+
+#: classes/fieldAdapter.php:184
+msgid "class"
+msgstr ""
+
+#: classes/fieldAdapter.php:186 classes/tables/usage_stat.php:7
+msgid "id"
+msgstr ""
+
+#: classes/frame.php:139
+msgid "You have no permissions to view this page"
+msgstr ""
+
+#: classes/html.php:231
+msgid "Upload"
+msgstr ""
+
+#: classes/html.php:648
+msgid "ON"
+msgstr ""
+
+#: classes/html.php:649
+msgid "OFF"
+msgstr ""
+
+#: classes/html.php:673
+#, php-format
+msgid "Select %s"
+msgstr ""
+
+#: classes/modInstaller.php:34
+#, php-format
+msgid "Move files for %s failed"
+msgstr ""
+
+#: classes/modInstaller.php:37
+#, php-format
+msgid "%s is not plugin module"
+msgstr ""
+
+#: classes/modInstaller.php:76
+msgid "Cannot create module directory. Try to set permission to "
+msgstr ""
+
+#: classes/modInstaller.php:103
+msgid "No modules were found in XML file"
+msgstr ""
+
+#: classes/modInstaller.php:107
+msgid "Invalid XML file"
+msgstr ""
+
+#: classes/modInstaller.php:109
+msgid "No XML file were found"
+msgstr ""
+
+#: classes/modInstaller.php:132
+#, php-format
+msgid "Install %s failed"
+msgstr ""
+
+#: classes/modInstaller.php:138
+msgid "Error Activate module"
+msgstr ""
+
+#: classes/modInstaller.php:168
+msgid "Error Deactivation module"
+msgstr ""
+
+#: classes/modInstaller.php:189
+msgid "Error Activating module"
+msgstr ""
+
+#: classes/model.php:176 classes/model.php:188
+msgid "Database error detected"
+msgstr ""
+
+#: classes/model.php:178
+msgid "Invalid ID"
+msgstr ""
+
+#: classes/model.php:211
+msgid "Empty or invalid ID"
+msgstr ""
+
+#: classes/table.php:278
+msgid "Nothing to update"
+msgstr ""
+
+#: classes/table.php:294
+msgid "Database error. Please contact your developer."
+msgstr ""
+
+#: classes/tables/modules.php:7 classes/tables/modules_type.php:8
+msgid "Label"
+msgstr ""
+
+#: classes/tables/modules.php:8
+msgid "Type"
+msgstr ""
+
+#: classes/tables/modules.php:9
+msgid "Active"
+msgstr ""
+
+#: classes/tables/modules.php:10
+msgid "Params"
+msgstr ""
+
+#: classes/tables/modules.php:11
+msgid "Code"
+msgstr ""
+
+#: classes/tables/modules.php:12
+msgid "External plugin directory"
+msgstr ""
+
+#: classes/tables/modules_type.php:7
+msgid "ID"
+msgstr ""
+
+#: classes/tables/usage_stat.php:8
+msgid "code"
+msgstr ""
+
+#: classes/tables/usage_stat.php:9
+msgid "visits"
+msgstr ""
+
+#: classes/tables/usage_stat.php:10
+msgid "spent_time"
+msgstr ""
+
+#: classes/tables/usage_stat.php:11
+msgid "modify_timestamp"
+msgstr ""
+
+#: classes/validator.php:30
+#, php-format
+msgid "Invalid length for %s, max length is %s"
+msgstr ""
+
+#: classes/validator.php:43
+#, php-format
+msgid "Invalid numeric value for %s"
+msgstr ""
+
+#: classes/validator.php:71 modules/supsystic_promo/controller.php:39
+#, php-format
+msgid "Please enter %s"
+msgstr ""
+
+#: classes/validator.php:78 modules/supsystic_promo/controller.php:39
+#, php-format
+msgid "Please select %s"
+msgstr ""
+
+#: classes/validator.php:85 classes/validator.php:101
+#, php-format
+msgid "Invalid %s"
+msgstr ""
+
+#: classes/validator.php:88
+#, php-format
+msgid "%s is already registered"
+msgstr ""
+
+#: modules/adminmenu/mod.php:13
+#, php-format
+msgid ""
+"Cool WordPress plugins from woobewoo.com developers. I tried %s - and this "
+"was what I need! #woobewoo.com"
+msgstr ""
+
+#: modules/adminmenu/mod.php:14 modules/options/mod.php:50
+msgid "Settings"
+msgstr ""
+
+#: modules/adminmenu/mod.php:15
+msgid "More plugins for your WordPress site here!"
+msgstr ""
+
+#: modules/adminmenu/mod.php:16 modules/adminmenu/mod.php:17
+#: modules/adminmenu/mod.php:18
+msgid "Spread the word!"
+msgstr ""
+
+#: modules/mail/controller.php:7
+msgid "Now check your email inbox / spam folders for test mail."
+msgstr ""
+
+#: modules/mail/mod.php:174
+msgid "Cannot send email - problem with send server"
+msgstr ""
+
+#: modules/mail/mod.php:189
+msgid "Mail"
+msgstr ""
+
+#: modules/mail/mod.php:191
+msgid "Mail function tested and work"
+msgstr ""
+
+#: modules/mail/mod.php:192
+msgid "Notify Email"
+msgstr ""
+
+#: modules/mail/mod.php:192
+msgid "Email address used for all email notifications from plugin"
+msgstr ""
+
+#: modules/mail/models/mail.php:7
+msgid "Test email functionality"
+msgstr ""
+
+#: modules/mail/models/mail.php:8
+#, php-format
+msgid "This is a test email for testing email functionality on your site, %s."
+msgstr ""
+
+#: modules/mail/models/mail.php:15
+msgid "Empty email address"
+msgstr ""
+
+#: modules/mail/views/tpl/mailAdmin.php:3
+msgid "Send test email to"
+msgstr ""
+
+#: modules/mail/views/tpl/mailAdmin.php:10
+msgid "Send test"
+msgstr ""
+
+#: modules/mail/views/tpl/mailAdmin.php:12
+msgid "This option allows you to check your server mail functionality"
+msgstr ""
+
+#: modules/mail/views/tpl/mailAdmin.php:15
+msgid "Did you receive test email?"
+msgstr ""
+
+#: modules/mail/views/tpl/mailAdmin.php:18
+msgid "Yes! It works!"
+msgstr ""
+
+#: modules/mail/views/tpl/mailAdmin.php:22
+msgid "No, I need to contact my hosting provider with mail function issue."
+msgstr ""
+
+#: modules/mail/views/tpl/mailAdmin.php:26
+msgid "Great! Mail function was tested and is working fine."
+msgstr ""
+
+#: modules/mail/views/tpl/mailAdmin.php:29
+msgid ""
+"Bad, please contact your hosting provider and ask them to setup mail "
+"functionality on your server."
+msgstr ""
+
+#: modules/mail/views/tpl/mailAdmin.php:47
+#: modules/options/views/tpl/optionsSettingsTabContent.php:48
+#, php-format
+msgid "Turned On %s"
+msgstr ""
+
+#: modules/mail/views/tpl/mailAdmin.php:48
+#: modules/options/views/tpl/optionsSettingsTabContent.php:49
+#, php-format
+msgid "Turned Off %s"
+msgstr ""
+
+#: modules/mail/views/tpl/mailAdmin.php:69
+#: modules/options/views/tpl/optionsSettingsTabContent.php:6
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:96
+#: modules/woofilters/views/tpl/woofiltersEditFormControls.php:11
+msgid "Save"
+msgstr ""
+
+#: modules/options/mod.php:120
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:124
+msgid "General"
+msgstr ""
+
+#: modules/options/mod.php:122
+msgid "Send usage statistics"
+msgstr ""
+
+#: modules/options/mod.php:122
+msgid ""
+"Send information about what plugin options you prefer to use, this will help "
+"us make our solution better for You."
+msgstr ""
+
+#: modules/options/models/modules.php:35
+msgid "Module Updated"
+msgstr ""
+
+#: modules/options/models/modules.php:50
+msgid "Module Update Failed"
+msgstr ""
+
+#: modules/options/models/modules.php:53
+msgid "Error module ID"
+msgstr ""
+
+#: modules/options/models/options.php:64
+msgid "Empty data to save option"
+msgstr ""
+
+#: modules/options/views/tpl/optionsAdminMain.php:18
+msgid "Main page Go here!!!!"
+msgstr ""
+
+#: modules/options/views/tpl/optionsSettingsTabContent.php:3
+msgid "Save all options"
+msgstr ""
+
+#: modules/options/views/tpl/optionsSettingsTabContent.php:56
+msgid "PRO option"
+msgstr ""
+
+#: modules/pages/views/tpl/deactivatePage.php:33
+msgid "Delete Plugin Data (options, setup data, database tables, etc.)"
+msgstr ""
+
+#: modules/supsystic_promo/controller.php:7
+#: modules/supsystic_promo/controller.php:100
+#: modules/supsystic_promo/controller.php:108
+#: modules/supsystic_promo/controller.php:116
+msgid "Information was saved. Thank you!"
+msgstr ""
+
+#: modules/supsystic_promo/controller.php:23
+msgid ""
+"Please don't send contact requests so often - wait for response for your "
+"previous requests."
+msgstr ""
+
+#: modules/supsystic_promo/controller.php:45
+msgid "Please enter valid email address"
+msgstr ""
+
+#: modules/supsystic_promo/controller.php:124
+msgid "Thank you for Feedback!"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:37
+#, php-format
+msgid ""
+"<h3>Hey, I noticed you just use %s over a week – that’s awesome!</"
+"h3><p>Could you please do me a BIG favor and give it a 5-star rating on "
+"WordPress? Just to help us spread the word and boost our motivation.</p>"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:38 modules/supsystic_promo/mod.php:44
+msgid "Ok, you deserve it"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:39 modules/supsystic_promo/mod.php:45
+msgid "Nope, maybe later"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:40
+msgid "I already did"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:41
+#, php-format
+msgid "<h3>More then eleven days with our %s plugin - Congratulations!</h3>"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:42
+msgid ""
+"<p>On behalf of the entire <a href=\"https://woobewoo.com/\" target=\"_blank"
+"\">woobewoo.com</a> company I would like to thank you for been with us, and "
+"I really hope that our software helped you.</p>"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:43
+msgid ""
+"<p>And today, if you want, - you can help us. This is really simple - you "
+"can just add small promo link to our site under your PopUps. This is small "
+"step for you, but a big help for us! Sure, if you don't want - just skip "
+"this and continue enjoy our software!</p>"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:46
+msgid "Skip"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:48
+#, php-format
+msgid ""
+"You can help us improve our plugin - by <a href=\"%s\" data-statistic-code="
+"\"hide\" class=\"button button-primary wpfEnbStatsAdBtn\">enabling Usage "
+"Statistics</a>. We will collect only our plugin usage statistic data - to "
+"understand Your needs and make our solution better for You."
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:51
+#, php-format
+msgid ""
+"Check out <a href=\"%s\" target=\"_blank\" class=\"button button-primary\" "
+"data-statistic-code=\"hide\">our other Plugins</a>! Years of experience in "
+"WordPress plugins developers made those list unbreakable!"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:111
+msgid "Constant Contact - PRO"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:112
+msgid "Campaign Monitor - PRO"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:113
+msgid "Vertical Response - PRO"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:114
+msgid "SendGrid - PRO"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:115
+msgid "GetResponse - PRO"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:116
+msgid "iContact - PRO"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:117
+msgid "Active Campaign - PRO"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:118
+msgid "Mailrelay - PRO"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:119
+msgid "arpReach - PRO"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:120
+msgid "SG Autorepondeur - PRO"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:121
+msgid "Benchmark - PRO"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:122
+msgid "InfusionSoft - PRO"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:123
+msgid "SalesForce - Web-to-Lead - PRO"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:124
+msgid "ConvertKit - PRO"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:125
+msgid "Emma - PRO"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:126
+msgid "SendinBlue - PRO"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:127
+msgid "Vision6 - PRO"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:128
+msgid "Vtiger - PRO"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:129
+msgid "Your Mailing List Provider (Ymlp) - PRO"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:130
+msgid "4Dem.it - PRO"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:164
+msgid "Testing"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:166 modules/supsystic_promo/mod.php:177
+msgid "Get PRO"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:175
+msgid "Login/Registration"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:188
+msgid "Popup Location"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:236
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:366
+#: modules/woofilters/views/woofilters.php:260
+msgid "Name"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:237
+msgid "Email"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:238
+msgid "Website"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:239
+msgid "Subject"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:240
+msgid "Topic"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:241
+msgid "Plugin options"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:242
+msgid "Report a bug"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:243
+msgid "Require a new functionality"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:244
+#: modules/supsystic_promo/views/tpl/pluginDeactivation.php:67
+msgid "Other"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:246
+msgid "Message"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:246
+msgid "Hello Supsystic Team!"
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:28
+msgid "Where's my subscribers?"
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:29
+#, php-format
+msgid ""
+"By default all subscribers add to the WordPress. \n"
+"\t\t\t\t\tTo find your subscribers go to Users tab on the left navigation "
+"menu of WordPress admin area. \n"
+"\t\t\t\t\tAlso available subscription to the Aweber, MailChimp, MailPoet <a "
+"href='%s' target='_blank'>and other</a>. \n"
+"\t\t\t\t\tIf you want to add another subscription service - just <a "
+"href='%s' target='_blank'>contact us</a> and provide URL of the subscription "
+"service."
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:33
+msgid "PopUp doesn't appear on the website"
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:34
+#, php-format
+msgid ""
+"If you setup you're PopUp properly, and it still doesn't show on the page - "
+"there are can be conflict with your WordPress theme or other plugins. <a "
+"href='%s' target='_blank'>Contact us</a> with the URL of the webpage you add "
+"popup and screenshots / text of the error messages, if you have one - and we "
+"will help you resolve your issue."
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:50
+#, php-format
+msgid ""
+"There were some problems while trying to retrieve our news, but you can "
+"always check all list <a target=\"_blank\" href=\"%s\">here</a>."
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:61
+#: modules/supsystic_promo/views/supsystic_promo.php:66
+#: modules/supsystic_promo/views/supsystic_promo.php:68
+#: modules/supsystic_promo/views/supsystic_promo.php:69
+msgid "Yes"
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:61
+#: modules/supsystic_promo/views/supsystic_promo.php:66
+#: modules/supsystic_promo/views/supsystic_promo.php:68
+#: modules/supsystic_promo/views/supsystic_promo.php:69
+msgid "No"
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:107
+msgid "Popup Plugin"
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:107
+msgid ""
+"The Best WordPress PopUp option plugin to help you gain more subscribers, "
+"social followers or advertisement. Responsive pop-ups with friendly options."
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:108
+msgid "Photo Gallery Plugin"
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:108
+msgid ""
+"Photo Gallery Plugin with a great number of layouts will help you to create "
+"quality respectable portfolios and image galleries."
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:109
+msgid "Contact Form Plugin"
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:109
+msgid ""
+"One of the best plugin for creating Contact Forms on your WordPress site. "
+"Changeable fonts, backgrounds, an option for adding fields etc."
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:110
+msgid "Newsletter Plugin"
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:110
+msgid ""
+"Supsystic Newsletter plugin for automatic mailing of your letters. You will "
+"have no need to control it or send them manually. No coding, hard skills or "
+"long hours of customizing are required."
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:111
+msgid "Membership by Supsystic"
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:111
+msgid ""
+"Create online membership community with custom user profiles, roles, "
+"FrontEnd registration and login. Members Directory, activity, groups, "
+"messages."
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:112
+msgid "Google Maps Easy"
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:112
+msgid ""
+"Display custom Google Maps. Set markers and locations with text, images, "
+"categories and links. Customize google map in a simple and intuitive way."
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:113
+msgid "Data Tables Generator"
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:113
+msgid ""
+"Create and manage beautiful data tables with custom design. No HTML "
+"knowledge is required."
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:114
+msgid "Slider Plugin"
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:114
+msgid ""
+"Creating slideshows with Slider plugin is fast and easy. Simply select "
+"images from your WordPress Media Library, Flickr, Instagram or Facebook, set "
+"slide captions, links and SEO fields all from one page."
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:115
+msgid "Social Share Buttons"
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:115
+msgid ""
+"Social share buttons to increase social traffic and popularity. Social "
+"sharing to Facebook, Twitter and other social networks."
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:116
+msgid "Live Chat Plugin"
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:116
+msgid ""
+"Be closer to your visitors and customers with Live Chat Support by "
+"Supsystic. Help you visitors, support them in real-time with exceptional "
+"Live Chat WordPress plugin by Supsystic."
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:117
+msgid "Pricing Table"
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:117
+msgid ""
+"It’s never been so easy to create and manage pricing and comparison tables "
+"with table builder. Any element of the table can be customise with mouse "
+"click."
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:118
+msgid "Coming Soon Plugin"
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:118
+msgid ""
+"Coming soon page with drag-and-drop builder or under construction | "
+"maintenance mode to notify visitors and collects emails."
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:119
+msgid "Backup Plugin"
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:119
+msgid ""
+"Backup and Restore WordPress Plugin by Supsystic provides quick and "
+"unhitched DropBox, FTP, Amazon S3, Google Drive backup for your WordPress "
+"website."
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:120
+msgid "Digital Publication Plugin"
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:120
+msgid ""
+"Digital Publication WordPress Plugin by Supsystic for Magazines, Catalogs, "
+"Portfolios. Convert images, posts, PDF to the page flip book."
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/additionalmainAdminShowOnOptions.php:1
+#, php-format
+msgid ""
+"Show when user tries to exit from your site. <a target=\"_blank\" href=\"%s"
+"\">Check example.</a>"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/additionalmainAdminShowOnOptions.php:7
+msgid "On Exit from Site"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/additionalmainAdminShowOnOptions.php:9
+#: modules/supsystic_promo/views/tpl/layeredStylePromo.php:10
+msgid "Available in PRO"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminFooter.php:4
+msgid "Version"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminFooter.php:10
+msgid "Go"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminFooter.php:10
+msgid "PRO"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminFooter.php:15
+#: modules/supsystic_promo/views/tpl/welcomePage.php:28
+msgid "Support"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:4
+#, php-format
+msgid "Welcome to %s plugin!"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:5
+#, php-format
+msgid ""
+"Thank you for choosing our %s plugin. Just click here to start using it - "
+"and we will show you it's possibilities and powerfull features."
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:8
+#: modules/supsystic_promo/views/tpl/adminTour.php:18
+#: modules/supsystic_promo/views/tpl/adminTour.php:28
+#: modules/supsystic_promo/views/tpl/adminTour.php:38
+#: modules/supsystic_promo/views/tpl/adminTour.php:48
+#: modules/supsystic_promo/views/tpl/adminTour.php:58
+#: modules/supsystic_promo/views/tpl/adminTour.php:68
+#: modules/supsystic_promo/views/tpl/adminTour.php:78
+#: modules/supsystic_promo/views/tpl/adminTour.php:88
+#: modules/supsystic_promo/views/tpl/adminTour.php:98
+msgid "Close"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:9
+#: modules/supsystic_promo/views/tpl/adminTour.php:19
+#: modules/supsystic_promo/views/tpl/adminTour.php:29
+#: modules/supsystic_promo/views/tpl/adminTour.php:39
+#: modules/supsystic_promo/views/tpl/adminTour.php:49
+#: modules/supsystic_promo/views/tpl/adminTour.php:59
+#: modules/supsystic_promo/views/tpl/adminTour.php:69
+#: modules/supsystic_promo/views/tpl/adminTour.php:79
+#: modules/supsystic_promo/views/tpl/adminTour.php:89
+#: modules/supsystic_promo/views/tpl/adminTour.php:99
+msgid "Next"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:14
+msgid "Create your firs PopUp"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:15
+msgid ""
+"Click on \"Add New PopUp\" button to create your firs PopUp. Just try - this "
+"is really simple!"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:24
+msgid "Enter name for your PopUp"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:25
+msgid "This will be name of your PopUp. You can change it latter."
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:34
+msgid "Selecte template for your PopUp"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:35
+msgid ""
+"Choose any templates from this list. You will be able to customize it after "
+"creation, and also - you will be able to change it latter if you will need "
+"this."
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:44
+msgid "Save first PopUp"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:45
+msgid ""
+"After you entered name of your PopUp and selected it's template - just save "
+"it, and you will be redirected to PopUp edit screen - where you will be able "
+"to customize your PopUp."
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:54
+msgid "Main Settings"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:55
+msgid ""
+"Here you can setup main display settings for your PopUp - when it should be "
+"visible for your user, when it need to be closed, if required - select "
+"specific pages/posts where you need to show your PopUp."
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:64
+msgid "Design Settings"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:65
+msgid ""
+"One of our most powerfull features - possibility to <strong>customize</"
+"strong> design for each PopUp window for your needs. In this section you can "
+"select your PopUp colors and images, enter required texts that will describe "
+"your neds for your visitors, setup social settings (if required), select "
+"PopUp location, and in the end - select Animation style for your PopUp from "
+"list of more then 20 different animation styles!"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:74
+msgid "Subscribe Settings"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:75
+msgid ""
+"Setup your Subscription settings here - select Subscribers destination in "
+"\"Subscribe to\" option - it allow to flow your subscribers not only to "
+"WordPress Users, but to other popular subscribe services. With other "
+"subscription options you will be able to easily customize your subscribe "
+"form in PopUp window."
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:84
+msgid "PopUp Statistwpf"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:85
+msgid ""
+"After you will setup your PopUp - it will start displaying to your site "
+"visitors. And now - you need to check it's displaying statistwpf. Here, in "
+"Statistwpf tab, you will be able to see how many times PopUp was shown to "
+"your visitors, how many times visitors subscribed to it (if subscription is "
+"enabled), how many times visitors shared your site using Social Share PopUp "
+"functionality and what social networks for share is most popular (if it was "
+"enabled). If you will use AB Testing feature to increase your site "
+"popularity - you will see here all your main and tested PopUps statistwpf - "
+"in one graph or diagramm, - and this will provide you with all required "
+"information about your POpUp popularity!"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:94
+msgid "PopUp CSS / HTML Code"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:95
+#, php-format
+msgid ""
+"In case you will need modify source CSS / HTML code of your PopUp - you can "
+"easily do this here. Just make sure that you know what you are doing - don't "
+"break PopUp. You can also find additional information about editing source "
+"code <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:104
+msgid "Well Done!"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:105
+#, php-format
+msgid ""
+"<b>Upgrading</b> <br>Once you have purchased Premium version of plugin  - "
+"you’ll have to enter license key (you can find it in your personal account "
+"on our site). Go to the License tab and enter your email and license key. "
+"Once you have activated your PRO license - you can use all its advanced "
+"options. <br><br>That's it! Now you know how to use our %s. Just save your "
+"PopUp after you will setup it - and you will see results. You can also check "
+"our site - <a href=\"%s\" target=\"_blank\">woobewoo.com</a> to find out "
+"more about our %s plugin. If you will have any questions - you can always "
+"contact us on <a href=\"%s\" target=\"_blank\">WordPress plugin forum</a> or "
+"in <a href=\"%s\" target=\"_blank\">our support system</a>. Besides you can "
+"always describe your questions on <a href=\"%s\" target=\"_blank\">Supsystic "
+"Forum.</a> <br><br><b>Enjoy this plugin?</b> <br>It will be nice if you`ll "
+"help us and boost plugin with <a href=\"%s\" target=\"_blank\">Five Stars "
+"rating on WordPress.org.</a>  <br><br>We really hope that our solution will "
+"be helpful for you. Good luck!"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:108
+msgid "Finish"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/featuredPlugins.php:3
+msgid "Get plugins bundle today and save over 80%"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/featuredPlugins.php:6
+msgid "Check It out"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/featuredPlugins.php:31
+msgid "More info"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/featuredPlugins.php:34
+msgid "Download"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/layeredStylePromo.php:8
+msgid "Enable Layered PopUp Style"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/layeredStylePromo.php:12
+msgid ""
+"By default all PopUps have modal style: it appears on user screen over the "
+"whole site. Layered style allows you to show your PopUp - on selected "
+"position: top, bottom, etc. and not over your site - but right near your "
+"content."
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/layeredStylePromo.php:16
+msgid "Select position for your PopUp"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/layeredStylePromo.php:19
+msgid "Top Left"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/layeredStylePromo.php:20
+msgid "Top"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/layeredStylePromo.php:21
+msgid "Top Right"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/layeredStylePromo.php:23
+msgid "Center Left"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/layeredStylePromo.php:24
+msgid "Center"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/layeredStylePromo.php:25
+msgid "Center Right"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/layeredStylePromo.php:27
+msgid "Bottom Left"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/layeredStylePromo.php:28
+msgid "Bottom"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/layeredStylePromo.php:29
+msgid "Bottom Right"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/layeredStylePromo.php:75
+msgid "Improve Free version"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/layeredStylePromo.php:77
+#, php-format
+msgid ""
+"This functionality and more - is available in PRO version. <a class=\"button "
+"button-primary\" target=\"_blank\" href=\"%s\">Get it</a> today for 29$"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:5
+msgid "FAQ and Documentation"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:17
+#: modules/supsystic_promo/views/tpl/welcomePage.php:57
+msgid "Check all FAQs"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:22
+#: modules/supsystic_promo/views/tpl/welcomePage.php:36
+msgid "Video Tutorial"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:31
+msgid "Server Settings"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:44
+msgid "News"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:50
+msgid "All news and info"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:55
+msgid "Contact form"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:87
+msgid "Send email"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:96
+msgid ""
+"Your email was sent, we will try to respond to your as soon as possible. "
+"Thank you for support!"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/pluginDeactivation.php:28
+msgid "Your Feedback"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/pluginDeactivation.php:29
+#, php-format
+msgid "If you have a moment, please share why you are deactivating %s"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/pluginDeactivation.php:35
+msgid "Couldn't get the plugin to work"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/pluginDeactivation.php:37
+#, php-format
+msgid ""
+"If you have a question, <a href=\"%s\" target=\"_blank\">contact us</a> and "
+"will do our best to help you"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/pluginDeactivation.php:44
+msgid "I found a better plugin"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/pluginDeactivation.php:47
+msgid "If it's possible, specify plugin name"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/pluginDeactivation.php:55
+msgid "I no longer need the plugin"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/pluginDeactivation.php:61
+msgid "It's a temporary deactivation"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/pluginDeactivation.php:70
+msgid "What is the reason?"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/pluginDeactivation.php:77
+msgid "Skip & Deactivate"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:7
+#, php-format
+msgid "Welcome to the %s v %s"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:8
+msgid "Skip tutorial"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:11
+msgid ""
+"The best way to collect subscribers and show notifications.<br />We are "
+"trying to make our plugin work in most comfortable way for you. Here is some "
+"base information about it."
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:19
+msgid "Step-by-step tutorial"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:21
+msgid ""
+"There're really many options of popup customization. So as soon as you close "
+"that page, I'll show you step-by-step tutorial of how to use plugin. Hope it "
+"will be usefull for you :)"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:24
+msgid "As an option we can install and setup plugin for you."
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:30
+#, php-format
+msgid ""
+"We love our plugin and do the best to improve all features for You. But "
+"sometimes issues happened, or you can't find required feature that you need. "
+"Don't worry, just <a href='%s' target='_blank'>contact us</a> and we will "
+"help you!"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:48
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:60
+msgid "Let's Start!"
+msgstr ""
+
+#: modules/woofilters/controller.php:18
+msgid "Prewiew"
+msgstr ""
+
+#: modules/woofilters/controller.php:79
+msgid "No products found"
+msgstr ""
+
+#: modules/woofilters/mod.php:12
+msgid "Add New Filter"
+msgstr ""
+
+#: modules/woofilters/mod.php:15
+msgid "Edit"
+msgstr ""
+
+#: modules/woofilters/mod.php:18
+msgid "Show All Filters"
+msgstr ""
+
+#: modules/woofilters/models/woofilters.php:32
+msgid "Please enter Name"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersAdmin.php:5
+#: modules/woofilters/views/tpl/woofiltersAdmin.php:8
+msgid "Delete selected"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersAdmin.php:11
+#: modules/woofilters/views/tpl/woofiltersAdmin.php:12
+msgid "Search"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersAdmin.php:21
+#, php-format
+msgid ""
+"You have no Filters for now. <a href=\"%s\" style=\"font-style: italic;"
+"\">Create</a> your Filter!"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersAdmin.php:29
+msgid "Add new filter"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersAdmin.php:33
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:198
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:234
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:331
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:378
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:476
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:574
+msgid "Filter title"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:61
+msgid "Filter Shortcode"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:62
+msgid "Filter PHP code"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:66
+msgid ""
+"Table PHP code: lets display the table through themes/plugins files (for "
+"example in the site footer). You can use shortcode in this way. "
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:101
+msgid "Delete"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:112
+msgid "Click to edit"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:127
+msgid "Design"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:130
+msgid "Options"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:133
+msgid "Filtering"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:141
+msgid "Choose parameters to show:"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:144
+msgid "Price"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:145
+msgid "Price range"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:146
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:412
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:510
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:608
+msgid "Sort by"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:148
+msgid "Tags"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:149
+msgid "Attribute"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:150
+msgid "Brand"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:151
+msgid "Custom meta"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:163
+msgid "From"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:167
+msgid "To"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:181
+msgid "Add"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:189
+msgid "Show options"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:189
+msgid "Close options"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:200
+msgid "Enter the \"Price\" filter title."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:203
+msgid "Price filter title"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:209
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:245
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:342
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:389
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:487
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:585
+msgid "Filter description"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:211
+msgid "Enter the \"Price\" filter description."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:214
+msgid "Price filter description"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:220
+msgid "Show inputs to price entry"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:222
+msgid "Display inputs to price entry"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:236
+msgid "Enter the \"Price range\" filter title."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:239
+msgid "Price range filter title"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:247
+msgid "Enter the \"Price range\" filter description."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:250
+msgid "Price range filter description"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:257
+msgid "Set range automatically"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:259
+msgid ""
+"If this option is enabled, you may set the price range settings "
+"automatically."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:268
+msgid "Set start price"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:270
+msgid ""
+"Set the minimum price. If field live empty  will be set the price of the "
+"cheapest product from the store."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:277
+msgid "Set end price"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:279
+msgid ""
+"Set the maximum price. If field live empty  will be set the price of the "
+"dearest product from the store."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:286
+msgid "Set the range between prices"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:288
+msgid "Set the price range between the filter options."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:295
+msgid "Set maximum range count"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:297
+msgid "Evenly calculate the range for a given number of positions."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:304
+msgid "Price range step"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:306
+msgid ""
+"Here you may set the value of prise increase step. The default value is set "
+"to 20. All the steps are equal."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:315
+msgid "Set range manually"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:317
+msgid ""
+"If this option is enabled, you may press the \"Setup\" button and customize "
+"your price range settings. You may increase or decrease the number of steps "
+"and set different values for each step."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:320
+msgid "Setup"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:333
+msgid "Enter the \"Sort by\" filter title."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:336
+msgid "Sort by filter title"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:344
+msgid "Enter the \"Sort by\" filter description."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:347
+msgid "Sort by filter description"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:353
+msgid "Sort options"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:355
+msgid ""
+"Here you may select the sorting options available for your site users (min "
+"two options)."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:359
+#: modules/woofilters/views/woofilters.php:253
+msgid "Default"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:360
+#: modules/woofilters/views/woofilters.php:254
+msgid "Popularity"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:361
+#: modules/woofilters/views/woofilters.php:255
+msgid "Rating"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:362
+#: modules/woofilters/views/woofilters.php:256
+msgid "Newness"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:363
+#: modules/woofilters/views/woofilters.php:257
+msgid "Price: low to high"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:364
+#: modules/woofilters/views/woofilters.php:258
+msgid "Price: high to low"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:365
+#: modules/woofilters/views/woofilters.php:259
+msgid "Random"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:380
+msgid "Enter the \"Category\" filter title."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:383
+msgid "Category filter title"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:391
+msgid "Enter the \"Category\" filter description."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:394
+msgid "Category filter description"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:400
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:498
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:596
+msgid "Show in frontend as"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:402
+msgid ""
+"Depending on whether you need one or several categories to be available at "
+"the same time, you may show your categories list as checkbox or dropdown."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:414
+msgid "Here you may set categories sorting by ascendance or descendance."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:424
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:522
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:620
+msgid "Show search field"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:426
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:524
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:622
+msgid "Show fast search field."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:433
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:531
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:629
+msgid "Show hierarchical"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:435
+msgid "Show paternal and subsidiary categories (for checkbox list)."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:442
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:540
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:638
+msgid "Hierarchical limit"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:444
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:542
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:640
+msgid "Hierarchical limit ."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:451
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:549
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:647
+msgid "Show count"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:453
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:551
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:649
+msgid "Show count."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:460
+msgid "Product categories"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:462
+msgid ""
+"Here you may select product categories to be displayed on your site from the "
+"list. If you want to select several categories, hold the \"Shift\" button "
+"and click on category names. Or you can hold \"Ctrl\" and click on category "
+"names. Press \"Ctrl\" + \"a\" for checking all categories."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:478
+msgid "Enter the \"Tags\" filter title."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:481
+msgid "Tags filter title"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:489
+msgid "Enter the \"Tags\" filter description."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:492
+msgid "Tags filter description"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:500
+msgid ""
+"Depending on whether you need one or several tags to be available at the "
+"same time, you may show your tags list as checkbox or dropdown."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:512
+msgid "Here you may set tags sorting by ascendance or descendance."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:533
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:631
+msgid "Show hierarchical."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:558
+msgid "Product tags"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:560
+msgid ""
+"Here you may select product tags to be displayed on your site from the list. "
+"If you want to select several tags, hold the \"Shift\" button and click on "
+"category names. Or you can hold \"Ctrl\" and click on category names. Press "
+"\"Ctrl\" + \"a\" for checking all tags. "
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:576
+msgid "Enter the \"Attribute\" filter title."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:579
+msgid "Attribute filter title"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:587
+msgid "Enter the \"Attribute\" filter description."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:590
+msgid "Attribute filter description"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:598
+msgid ""
+"Depending on whether you need one or several attributes to be available at "
+"the same time, you may show your attributes list as checkbox or dropdown."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:610
+msgid "Here you may set attributes sorting by ascendance or descendance."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:656
+msgid "Select attribute"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:658
+msgid ""
+"Here you may select attribute to be displayed on your site from the list."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:680
+msgid "Filter style"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:682
+msgid ""
+"Full screen filter - is located over products and occupies the entire width "
+"of the screen, with the ability to collapse / expand."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:693
+msgid "Max Columns"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:695
+msgid "For Full screen filter mode - how many columns will be displayed"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:705
+msgid "Max Height in px"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:707
+msgid ""
+"The maximum height for each of the filters, if the height is greater than "
+"display scroll "
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:717
+msgid "Max Height in px (Full screen mode)"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:719
+msgid "The maximum height container for Full screen mode filter "
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:729
+msgid "Custom scroll bar"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:731
+msgid "Enable beautiful scrollbar."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:740
+msgid "Select checkbox style"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:742
+msgid "Select checkbox style in frontend."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:753
+msgid "Select Hierarchy Style"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:755
+msgid "Select hierarchy style in frontend."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:766
+msgid "Select Filter Buttons Position"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:768
+msgid "Here you may select the position of filter buttons on the page."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:795
+msgid "Filter Loader Icon"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:797
+msgid ""
+"Here you may select the animated loader, which appears when filtering "
+"results are loading."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:799
+msgid "Choose Icon"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:811
+msgid "Filter loader color"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:813
+msgid "Here you may select the color of filter loader animation."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:823
+msgid "Select Mobile Filter Position"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:825
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:958
+msgid "Select mobile filter location."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:836
+msgid "Set mobile resolution px"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:838
+msgid "The width of the screen at which the mobile filter is turned on."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:857
+msgid "Show Term Products Count"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:859
+msgid "Show the number of products next to the title."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:868
+msgid "Show Term Search Fields"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:870
+msgid "show the search field in supported filters."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:879
+msgid "Stepped Filter Selection"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:881
+msgid ""
+"After selection filter options, you can confirm filtering in \"Show result\" "
+"popup."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:890
+msgid "Enable ajax"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:892
+msgid ""
+"This option enables Ajax search. Filtering starts as soon as filter elements "
+"change and the page reloads automatically."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:901
+msgid "Selected Terms Collector"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:903
+msgid ""
+"Show the selected filter elements above the products, with the ability to "
+"remove them from the filter."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:912
+msgid "Show Clear all button"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:914
+msgid ""
+"If this option is enabled, the \"Clear\" button appears at the page. All "
+"filter presets will be removed after pressing the button."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:923
+msgid "Show Filtering button"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:925
+msgid ""
+"This button is necessary, when ajax mode is disabled. It allows users to set "
+"all necessary filter parameters before starting the filtering."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:945
+msgid "Enable Cross filtration"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:947
+msgid ""
+"Enable Cross filtration. For example, if you select the category \"new\" in "
+"the category filter, all filters will hide options in products that do not "
+"have the category \"new\"."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:956
+msgid "Cross filter style"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:969
+msgid "Cross filter Term Products Count Mode"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:971
+msgid "Cross filter Term Products Count Mode displayed in frontend."
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:982
+msgid "Reorder Cross filter Terms"
+msgstr ""
+
+#: modules/woofilters/views/tpl/woofiltersEditAdmin.php:984
+msgid ""
+"After filtering, sort the items in the filters (active / clickable options "
+"move up)."
+msgstr ""
+
+#: modules/woofilters/views/woofilters.php:101
+#: modules/woofilters/views/woofilters.php:137
+msgid "Filter"
+msgstr ""
+
+#: modules/woofilters/views/woofilters.php:104
+#: modules/woofilters/views/woofilters.php:140
+msgid "Clear"
+msgstr ""
+
+#: modules/woofilters/views/woofilters.php:323
+msgid "Select category"
+msgstr ""
+
+#: modules/woofilters/views/woofilters.php:377
+msgid "Select tag"
+msgstr ""
+
+#: modules/woofilters/views/woofilters.php:436
+msgid "Select "
+msgstr ""
+
+#: modules/woofilters_widget/mod.php:18
+msgid "Displays Filters"
+msgstr ""
+
+#: modules/woofilters_widget/views/tpl/form.php:3
+msgid "Select filter"
+msgstr ""
+
+#: modules/woofilters_widget/views/woofilters_widget.php:15
+msgid "You have no filters"
+msgstr ""

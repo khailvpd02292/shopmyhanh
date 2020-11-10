@@ -1,0 +1,51 @@
+2020-10-17T15:34:16+00:00 CRITICAL require_once(): Failed opening required 'http://localhost/wordpress.9.7.2018/wp-content/themes/coloshop/core/init.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress.9.7.2018\wp-content\themes\coloshop\functions.php on line 7
+
+2020-10-17T15:34:45+00:00 CRITICAL require_once(): Failed opening required 'http://localhost:8080/wordpress.9.7.2018/wp-content/themes/coloshop/core/init.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress.9.7.2018\wp-content\themes\coloshop\functions.php on line 7
+
+2020-10-17T15:34:50+00:00 CRITICAL require_once(): Failed opening required 'http://localhost:8080/wordpress.9.7.2018/wp-content/themes/coloshop/core/init.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress.9.7.2018\wp-content\themes\coloshop\functions.php on line 7
+
+2020-10-17T15:35:40+00:00 CRITICAL require_once(): Failed opening required 'http://localhost:8080/wordpress.9.7.2018/wp-content/themes/coloshop/core/init.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress.9.7.2018\wp-content\themes\coloshop\functions.php on line 7
+
+2020-10-17T15:42:56+00:00 CRITICAL require_once(): Failed opening required 'http://localhost:8080/wordpress.9.7.2018/wp-content/themes/coloshop/core/init.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress.9.7.2018\wp-content\themes\coloshop\functions.php on line 7
+
+2020-10-17T15:43:12+00:00 CRITICAL require_once(): Failed opening required 'http://localhost:8080/wordpress.9.7.2018/wp-content/themes/coloshop/core/init.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress.9.7.2018\wp-content\themes\coloshop\functions.php on line 7
+
+2020-10-17T15:44:09+00:00 CRITICAL Uncaught Error: Class 'Shop_Product_Loop' not found in C:\xampp\htdocs\wordpress.9.7.2018\wp-includes\class-wp-widget-factory.php:100
+Stack trace:
+#0 C:\xampp\htdocs\wordpress.9.7.2018\wp-includes\widgets.php(115): WP_Widget_Factory->register('Shop_Product_Lo...')
+#1 C:\xampp\htdocs\wordpress.9.7.2018\wp-content\themes\coloshop\functions.php(478): register_widget('Shop_Product_Lo...')
+#2 C:\xampp\htdocs\wordpress.9.7.2018\wp-includes\class-wp-hook.php(286): shop_theme_add_wiget('')
+#3 C:\xampp\htdocs\wordpress.9.7.2018\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\wordpress.9.7.2018\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wordpress.9.7.2018\wp-includes\widgets.php(1649): do_action('widgets_init')
+#6 C:\xampp\htdocs\wordpress.9.7.2018\wp-includes\class-wp-hook.php(286): wp_widgets_init('')
+#7 C:\xampp\htdocs\wordpress.9.7.2018\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#8 C:\xampp\htdocs\wordpress.9.7.20 in C:\xampp\htdocs\wordpress.9.7.2018\wp-includes\class-wp-widget-factory.php on line 100
+
+2020-10-17T15:45:13+00:00 CRITICAL require_once(): Failed opening required 'http://localhost:8080/wordpress.9.7.2018/wp-content/themes/coloshop/core/init.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress.9.7.2018\wp-content\themes\coloshop\functions.php on line 7
+
+2020-10-17T15:53:37+00:00 CRITICAL require_once(): Failed opening required '/core/init.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\themes\coloshop\functions.php on line 7
+
+2020-10-17T15:53:38+00:00 CRITICAL require_once(): Failed opening required '/core/init.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\themes\coloshop\functions.php on line 7
+
+2020-10-17T15:53:49+00:00 CRITICAL require_once(): Failed opening required '/core/init.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\themes\coloshop\functions.php on line 7
+
+2020-10-17T15:54:00+00:00 CRITICAL require_once(): Failed opening required '/core/init.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\themes\coloshop\functions.php on line 7
+
+2020-10-17T15:54:39+00:00 CRITICAL require_once(): Failed opening required 'http://localhost:8080/wordpress/wp-content/themes/coloshop/core/init.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\themes\coloshop\functions.php on line 7
+
+2020-10-17T15:55:51+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\themes\coloshop/init.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\themes\coloshop\functions.php on line 7
+
+2020-10-17T15:56:31+00:00 CRITICAL Uncaught Error: Class 'Shop_Product_Loop' not found in C:\xampp\htdocs\wordpress\wp-includes\class-wp-widget-factory.php:100
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\widgets.php(115): WP_Widget_Factory->register('Shop_Product_Lo...')
+#1 C:\xampp\htdocs\wordpress\wp-content\themes\coloshop\functions.php(478): register_widget('Shop_Product_Lo...')
+#2 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(286): shop_theme_add_wiget('')
+#3 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wordpress\wp-includes\widgets.php(1649): do_action('widgets_init')
+#6 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(286): wp_widgets_init('')
+#7 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#8 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\wordpress\wp- in C:\xampp\htdocs\wordpress\wp-includes\class-wp-widget-factory.php on line 100
+

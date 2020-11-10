@@ -1,0 +1,12 @@
+2020-11-07T10:44:07+00:00 CRITICAL Uncaught Error: Call to undefined function putRevSlider() in C:\xampp\htdocs\wordpress\wp-content\themes\coloshop\templates-parts\content-slider.php:3
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template.php(690): require()
+#1 C:\xampp\htdocs\wordpress\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', false)
+#2 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#3 C:\xampp\htdocs\wordpress\wp-content\themes\coloshop\header.php(101): get_template_part('templates-parts...', 'slider')
+#4 C:\xampp\htdocs\wordpress\wp-includes\template.php(688): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', true)
+#6 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(41): locate_template(Array, true)
+#7 C:\xampp\htdocs\wordpress\wp-content\themes\coloshop\index.php(1): get_header()
+#8 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(74): include('C:\ in C:\xampp\htdocs\wordpress\wp-content\themes\coloshop\templates-parts\content-slider.php on line 3
+
